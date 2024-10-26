@@ -265,7 +265,7 @@ int main() {
         } else {
             cout << "Opsi tidak ditemukan.\n";
         }
-    } while (pilihan != 4);
+    } while (pilihan != 3);
 
     return 0;
 }
